@@ -9,7 +9,6 @@
 <body>
 
 	<h1>I love ISP551</h1>
-<<<<<<< HEAD
 	<h2> try try  </h2>
 =======
 	
