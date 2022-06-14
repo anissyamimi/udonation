@@ -9,7 +9,7 @@
 <body>
 
 	<h1>I love ISP551</h1>
-	<h2>dont stress lagii ! </h2>
+	
 
 
 </body>
