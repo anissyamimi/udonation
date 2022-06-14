@@ -9,7 +9,11 @@
 <body>
 
 	<h1>I love ISP551</h1>
+<<<<<<< HEAD
 	<h2> try try  </h2>
+=======
+	
+>>>>>>> branch 'master' of https://github.com/anissyamimi/udonation.git
 
 </body>
 </html>
