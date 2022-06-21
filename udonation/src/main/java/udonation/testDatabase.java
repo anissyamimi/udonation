@@ -12,7 +12,7 @@ public class testDatabase {
 			Connection con = DriverManager.getConnection("jdbc:postgresql://localhost/ec2-23-23-182-238.compute-1.amazonaws.com/dafinkurrnupvh","lettugfccpthmf","06c5594146c3b74f83bc9d58dfcc00d66587b37fb6c5a0eb3d37a1a9aa1dd752");
 			//step 3 create the statement object
 			java.sql.Statement stmt = con.createStatement();
-			String sql = "DELETE FROM committee WHERE committeename = 'Muhammad Fahmi'";
+			String sql = "SELECT * FROM committee;";
 			//Step 4 execute query
 			stmt.executeUpdate(sql);
 			//step 5 close the connection object
